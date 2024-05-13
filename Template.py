@@ -292,12 +292,14 @@ def getSummary_OpenAI(pathpdf, record):
 
     responsekw = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
-        messages=[{"role": "user",
+        messages=[{"role": "system",
+                   "content": "assign at most 5 keywords; do not number the keywords; use ',' to separate keywords; Do not add any words before the first subject heading or after the last subject headings; response should be all lowercase; no temporal keywords please, only topical keywords"},
+            {"role": "user",
                    "content": f"Can you assign at most 5 keywords for the provided government documentation: {alltext}"}], )
 
     if responsekw["choices"][0]["message"]["content"]:
         print("OpenAI API gives the summary following: ", responsekw["choices"][0]["message"]["content"])
-    kwlst = responsekw["choices"][0]["message"]["content"].split(":")[1].split(",")
+    kwlst = responsekw["choices"][0]["message"]["content"].split(", ")
 
     # 520 field
     record.add_field(
@@ -315,7 +317,7 @@ def getSummary_OpenAI(pathpdf, record):
                 tag='653',
                 indicators=[' ', ' '],
                 subfields=[
-                    Subfield(code='a', value=k)
+                    Subfield(code='a', value=k.strip("."))
                 ]))
 
     print("Below is the MARC records after AI generating summary and keywords:")
