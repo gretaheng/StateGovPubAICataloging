@@ -1,62 +1,59 @@
 source,Source (required by the prompt),Source of the field,value,valid?,Note,,
-"GPT4.0 mini- 2
+"GPT4.o mini- 2
 Claude 3.5 Sonnet -2
 DeepSeek - 2",,LCSH,650  0 $a Copyright $z United States.,Y,OCLC example #435803222,,
-"GPT4.0 mini- 3
+"GPT4.o mini- 3
 Mistral Large 2 - 6",,LCSH,650  _0 $a Railroads $z California $x Finance.,Y,OCLC example #693777324 (“Railroads” is a topical heading authorized for geographic subdivision.),,
-GPT4.0 mini- 3,,LCSH,650  _0 $a Transportation $z California $x Law and legislation.,N,"Shall it be $a Transportation $x Law and legislation $z California 
+GPT4.o mini- 3,,LCSH,650  _0 $a Transportation $z California $x Law and legislation.,N,"Shall it be $a Transportation $x Law and legislation $z California 
 From classweb: Transportation—Law and legislation   (May Subd Geog) 
-OCLC example #2010934134 ",,
-"GPT4.0 mini- 3
-GPT4.0 - 2
-GPT4.0 - 4
-GPT4.0 - 6",,LCSH,650  _0 $a Transportation $x Finance $z California.,N,"Shall it be Transportation--California--Finance?
+OCLC example #2010934134",,
+"GPT4.o mini- 3
+GPT4 - 2
+GPT4 - 4
+GPT4 - 6",,LCSH,650  _0 $a Transportation $x Finance $z California.,N,"Shall it be Transportation--California--Finance?
 
 OCLC example #34085913",,
-GPT4.0 mini- 4,,LCSH,650  _0 $a Railroads $z California $x Finance $v Guidelines,N,Cannot find it in classweb or LC catalog,,The subfield z should always come after the x so it's not formatted properly
-GPT4.0 mini- 4,,LCSH,650  _0 $a State aid to transportation $z California.,N,State aid to transportation is not existed,,
-GPT4.0 mini- 4,,LCSH,650  _0 $a Transportation $x Law and legislation $z California.,Y,OCLC example #2010934134,,
-GPT4.0 mini- 4,,LCSH,650  _0 $a Local transit $z California $x Finance.,Y,OCLC example #8540600,,
-GPT4.0 mini- 4,,LCSH,650  _0 $a Diesel fuels $x Taxation $z California,Y,"From classweb: 
+GPT4.o mini- 4,,LCSH,650  _0 $a Railroads $z California $x Finance $v Guidelines,N,Cannot find it in classweb or LC catalog,,The subfield z should always come after the x so it's not formatted properly
+GPT4.o mini- 4,,LCSH,650  _0 $a State aid to transportation $z California.,N,State aid to transportation is not existed,,
+GPT4.o mini- 4,,LCSH,650  _0 $a Transportation $x Law and legislation $z California.,Y,OCLC example #2010934134,,
+GPT4.o mini- 4,,LCSH,650  _0 $a Local transit $z California $x Finance.,Y,OCLC example #8540600,,
+GPT4.o mini- 4,,LCSH,650  _0 $a Diesel fuels $x Taxation $z California,Y,"From classweb: 
 Diesel fuels—Taxation   (May Subd Geog)  ",,
-GPT4.0 mini- 5,FAST,FAST,650  _7 $a Railroads $z California $x Finance $2 fast $1 http://id.worldcat.org/fast/1059028,N,No subdivisions for fast,,
-GPT4.0 mini- 5,FAST,FAST,650  _7 $a State aid to transportation $z California $2 fast $1 http://id.worldcat.org/fast/1164101,N,No subdivisions for fast,,
-GPT4.0 mini- 5,FAST,FAST,650  _7 $a Transportation $x Law and legislation $z California $2 fast $1 http://id.worldcat.org/fast/1171932,N,No subdivisions for fast,,
-GPT4.0 mini- 5,FAST,FAST,650  _7 $a Local transit $z California $x Finance $2 fast $1 http://id.worldcat.org/fast/1069644,N,No subdivisions for fast,,
-GPT4.0 mini- 5,FAST,FAST,650  _7 $a Diesel fuels $x Taxation $z California $2 fast $1 http://id.worldcat.org/fast/1084527,N,No subdivisions for fast,,
-GPT4.0 - 2,,LCSH,610  10$aUnited States.$tCopyright Act.,Y,OCLC example #1341855314,,
-GPT4.0 - 2,,LCSH,650  \0$aCopyright$zUnited States$xLaw and legislation,N,"From classweb: 
+GPT4.o mini- 5,FAST,FAST,650  _7 $a Railroads $z California $x Finance $2 fast $1 http://id.worldcat.org/fast/1059028,N,No subdivisions for fast,,
+GPT4.o mini- 5,FAST,FAST,650  _7 $a State aid to transportation $z California $2 fast $1 http://id.worldcat.org/fast/1164101,N,No subdivisions for fast,,
+GPT4.o mini- 5,FAST,FAST,650  _7 $a Transportation $x Law and legislation $z California $2 fast $1 http://id.worldcat.org/fast/1171932,N,No subdivisions for fast,,
+GPT4.o mini- 5,FAST,FAST,650  _7 $a Local transit $z California $x Finance $2 fast $1 http://id.worldcat.org/fast/1069644,N,No subdivisions for fast,,
+GPT4.o mini- 5,FAST,FAST,650  _7 $a Diesel fuels $x Taxation $z California $2 fast $1 http://id.worldcat.org/fast/1084527,N,No subdivisions for fast,,
+GPT4 - 2,,LCSH,610  10$aUnited States.$tCopyright Act.,Y,OCLC example #1341855314,,
+GPT4 - 2,,LCSH,650  \0$aCopyright$zUnited States$xLaw and legislation,N,"From classweb: 
 Copyright—Law and legislation
 USE 	Copyright",,
-"GPT4.0 - 2
+"GPT4 - 2
 Claude 3.5 Sonnet -2
 Deepseek - 2",,LCSH,650  \0$aIntellectual property$zUnited States.,Y,OCLC example #247217684,,
-"GPT4.0 - 3
-GPT4.0 - 4",,LCSH,610  10$aCalifornia State Transportation Agency$xGuidelines,N,guideline is not a General subdivision (subfield x),,
-"GPT4.0 - 3
-GPT4.0 - 4",,LCSH,650  \0$aPublic utilities$xLaw and legislation$zCalifornia.,Y,OCLC example #1317752620,,
-"GPT4.0 - 3
-GPT4.0 - 4",,LCSH,650  \0$aRailroads and state$zCalifornia$xFinance.,Y,Railroads and state (May Subd Geog),,
-GPT4.0 - 4,,LCSH,610  10$aCalifornia.$tState Rail Assistance Program$xFinance.,Y,,,
-GPT4.0 - 4,,LCSH,650  \0$aRailroads$xEnvironmental aspects$zCalifornia,Y,Example https://search.catalog.loc.gov/instances/7776fda7-e2b1-5043-b9b0-39dd734cd4ad?option=query&pageNumber=1&query=subjects.value%3D%3D%2Fstring%20%22Railroads--Environmental%20aspects--Virginia%22%20and%20subjects.sourceId%3D%3D%22e894d0dc-621d-4b1d-98f6-6f7120eb0d40%22%20and%20subjects.typeId%3D%3D%22d6488f88-1e74-40ce-81b5-b19a928ff5b7%22&recordsPerPage=25,,
-GPT4.0 - 5,FAST,FAST,650  \7$aTransportation$xFinance$zCalifornia.$2fast$1http://id.worldcat.org/fast/1207548,N,No subdivisions for fast,,
-GPT4.0 - 5,FAST,FAST,650  \7$aRailroads and state$zCalifornia$xFinance.$2fast$1http://id.worldcat.org/fast/1717274,N,No subdivisions for fast,,
-GPT4.0 - 5,FAST,FAST,650  \7$aPublic utilities$xLaw and legislation$zCalifornia.$2fast$1http://id.worldcat.org/fast/1020891,N,No subdivisions for fast,,
-GPT4.0 - 5,FAST,FAST,650  \7$aRailroads$xEnvironmental aspects$zCalifornia.$2fast$1http://id.worldcat.org/fast/1174346,N,No subdivisions for fast,,
-GPT4.0 - 5,FAST,FAST,650  \7$aCalifornia State Transportation Agency.$2fast$1http://id.worldcat.org/fast/136576,N,FAST exists yet the link shall be http://id.worldcat.org/fast/1810934,,
-GPT4.0 - 6,,?,650  \$aState transportation$zCalifornia$xPlanning,N,While the LCSH exist: OCLC example #3215054; the second indicator is missing so it is not a valid 650,,
-GPT4.0 - 6,,?,"650  \$aPublic Utilities Code 99312.3 (Calif.)
-",N,not a valid heading typically anythign with the state in the parentheisies would be a 651 geographic heading,,
+"GPT4 - 3
+GPT4 - 4",,LCSH,610  10$aCalifornia State Transportation Agency$xGuidelines,N,guideline is not a General subdivision (subfield x),,
+"GPT4 - 3
+GPT4 - 4",,LCSH,650  \0$aPublic utilities$xLaw and legislation$zCalifornia.,Y,OCLC example #1317752620,,
+"GPT4 - 3
+GPT4 - 4",,LCSH,650  \0$aRailroads and state$zCalifornia$xFinance.,Y,Railroads and state (May Subd Geog),,
+GPT4 - 4,,LCSH,610  10$aCalifornia.$tState Rail Assistance Program$xFinance.,Y,,,
+GPT4 - 4,,LCSH,650  \0$aRailroads$xEnvironmental aspects$zCalifornia,Y,Example https://search.catalog.loc.gov/instances/7776fda7-e2b1-5043-b9b0-39dd734cd4ad?option=query&pageNumber=1&query=subjects.value%3D%3D%2Fstring%20%22Railroads--Environmental%20aspects--Virginia%22%20and%20subjects.sourceId%3D%3D%22e894d0dc-621d-4b1d-98f6-6f7120eb0d40%22%20and%20subjects.typeId%3D%3D%22d6488f88-1e74-40ce-81b5-b19a928ff5b7%22&recordsPerPage=25,,
+GPT4 - 5,FAST,FAST,650  \7$aTransportation$xFinance$zCalifornia.$2fast$1http://id.worldcat.org/fast/1207548,N,No subdivisions for fast,,
+GPT4 - 5,FAST,FAST,650  \7$aRailroads and state$zCalifornia$xFinance.$2fast$1http://id.worldcat.org/fast/1717274,N,No subdivisions for fast,,
+GPT4 - 5,FAST,FAST,650  \7$aPublic utilities$xLaw and legislation$zCalifornia.$2fast$1http://id.worldcat.org/fast/1020891,N,No subdivisions for fast,,
+GPT4 - 5,FAST,FAST,650  \7$aRailroads$xEnvironmental aspects$zCalifornia.$2fast$1http://id.worldcat.org/fast/1174346,N,No subdivisions for fast,,
+GPT4 - 5,FAST,FAST,650  \7$aCalifornia State Transportation Agency.$2fast$1http://id.worldcat.org/fast/136576,N,FAST exists yet the link shall be http://id.worldcat.org/fast/1810934,,
+GPT4 - 6,,?,650  \$aState transportation$zCalifornia$xPlanning,N,While the LCSH exist: OCLC example #3215054; the second indicator is missing so it is not a valid 650,,
+GPT4 - 6,,?,650  \$aPublic Utilities Code 99312.3 (Calif.),N,not a valid heading typically anythign with the state in the parentheisies would be a 651 geographic heading,,
 "Mistral Large 2 - 2
 Mistral  Codestral - 2
-Mistral  Nemo - 2
-",,?,650    $a Copyright law $z United States.,N,"should just be copyright, and it's missing the second indicator to make it lcsh",,
+Mistral  Nemo - 2",,?,650    $a Copyright law $z United States.,N,"should just be copyright, and it's missing the second indicator to make it lcsh",,
 Mistralai - 2,,LCSH,650 0 Copyright law - United States.,N,didn't use subfield z for country,,
 "Mistral Large 2 - 2
 Mistral  Codestral - 2
 Mistral  Nemo - 2",,?,650    $a Government publications $z United States,Y,valid LCSH but heading is missing second indicator 0 to mark it as lcsh,,
-Mistral Large 2 - 6,,LCSH,"650  0\$aTransportation $zCalifornia $zManagement.
-",N,"the subdivision management is in the wrong subdivision and also not appropriate under the main heading ""ǂi Use as a topical subdivision under names of individual corporate bodies, including government agencies, galleries, museums, parks, etc., and under types of industries, industrial plants and processes, special activities, resources, etc. Under names of individual libraries, schools, and institutions in the spheres of health and social services, and under types of such institutions, and types of education and programs in the field of education use the subdivision ǂa Administration.
+Mistral Large 2 - 6,,LCSH,650  0\$aTransportation $zCalifornia $zManagement.,N,"the subdivision management is in the wrong subdivision and also not appropriate under the main heading ""ǂi Use as a topical subdivision under names of individual corporate bodies, including government agencies, galleries, museums, parks, etc., and under types of industries, industrial plants and processes, special activities, resources, etc. Under names of individual libraries, schools, and institutions in the spheres of health and social services, and under types of such institutions, and types of education and programs in the field of education use the subdivision ǂa Administration.
 """,,
 Mistral Large 2 - 6,,LCSH,650  0\$aPublic utilities $zCalifornia.,Y,,,
 Llama-3.2  - 2,,Uncontrolled,653 0 Copyright|xUnited States,N,United states should be in subfield Z,,
@@ -69,16 +66,13 @@ DeepSeek - 6,,Source is specified in subfield ǂ2,"655  7 $aElectronic books. $2
 Government policy,,LCSH,650 0$a United States$x Government publishing$x Online resource,N,not a valid lcsh heading annual reports not a valid subdivision,,
 Llama-3.2  - 6,,?,600 3\ $a California State.,N,"<marc:datafield ind1=""3"" ind2="" "" tag=""600"">
     <marc:subfield code=""a"">California State.</marc:subfield>
-  </marc:datafield>
-",,
+  </marc:datafield>",,
 Llama-3.2  - 6,,LCSH,650 60$a Electronic government publications -- California,N,"<marc:datafield ind1=""6"" ind2=""0"" tag=""650"">
     <marc:subfield code""a"">Electronic government publications -- California</marc:subfield>
-  </marc:datafield>
-",,
+  </marc:datafield>",,
 Mistralai - 2,,LC subject headings for children's literature,650 1 United States. Department of Commerce. United States Copyright Office,N,not a valid childrens heading,,
 Mistralai - 3,,LCSH,650 0 Government publications - United States. (Placeholder),N,"The first part is correct, but United states should be in a subfield z and the placeholder is wrong",,
-Mistralai - 3,,LC subject headings for children's literature,"650 1 California. State Rail Assistance (Placeholder)
-",N,not a valid childrens heading,,
+Mistralai - 3,,LC subject headings for children's literature,650 1 California. State Rail Assistance (Placeholder),N,not a valid childrens heading,,
 Mistralai - 4,,LC subject headings for children's literature,650 01 State Rail Assistance.,N,not a valid childrens heading,,
 Mistralai - 4,,Medical Subject Headings,650 02 California State Transportation Agency.,N,not a valid mesh heading or any heading,,
 Mistralai - 4,,National Agricultural Library subject authority file,650 03 Allocation Request.,N,not a valid nal heading,,
@@ -142,8 +136,7 @@ Mixtral - 6,,?,650   $a Transportation -- Government policy -- California.,N,the
 Claude 3.5 Sonnet -2,,LCSH,610 10 $aUnited States$xCopyright.,N,,,
 DeepSeek - 2,,LCSH,610 10 $aUnited States. $tUnited States Code. $nTitle 17.,N,clearly just tried to make a subject heading out of words in the title,,
 "DeepSeek - 3
-DeepSeek - 4
-",,LCSH,610 10 $aCalifornia. $bState Transportation Agency $vRules and practice.,Y,,,
+DeepSeek - 4",,LCSH,610 10 $aCalifornia. $bState Transportation Agency $vRules and practice.,Y,,,
 DeepSeek - 6,,LCSH,"610 10 $aCalifornia. $bState Transportation Agency $vRules and practice. $1<a href=""https://id.loc.gov/authorities/names/n2013180313"">https://id.loc.gov/authorities/names/n2013180313</a>",,,,
 "DeepSeek - 3
 DeepSeek - 4",,LCSH,650 0 $aRailroads $xFinance $xLaw and legislation $zCalifornia.,Y,,,
