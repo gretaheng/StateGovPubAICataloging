@@ -1,5 +1,5 @@
 """
-Batch MARC generator for the 63 PDFs in all_pdfs/.
+Batch MARC generator for the PDFs in all_pdfs/.
 
 For every PDF:
   1. Extract metadata (language, title, year) with Apache Tika.
